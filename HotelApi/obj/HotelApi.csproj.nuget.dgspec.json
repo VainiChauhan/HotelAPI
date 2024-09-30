@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\deepa\\source\\repos\\HotelApi\\HotelApi\\HotelApi.csproj": {}
+    "C:\\Project\\HotelApi\\HotelApi\\HotelApi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\deepa\\source\\repos\\HotelApi\\HotelApi\\HotelApi.csproj": {
+    "C:\\Project\\HotelApi\\HotelApi\\HotelApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\deepa\\source\\repos\\HotelApi\\HotelApi\\HotelApi.csproj",
+        "projectUniqueName": "C:\\Project\\HotelApi\\HotelApi\\HotelApi.csproj",
         "projectName": "HotelApi",
-        "projectPath": "C:\\Users\\deepa\\source\\repos\\HotelApi\\HotelApi\\HotelApi.csproj",
+        "projectPath": "C:\\Project\\HotelApi\\HotelApi\\HotelApi.csproj",
         "packagesPath": "C:\\Users\\deepa\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\deepa\\source\\repos\\HotelApi\\HotelApi\\obj\\",
+        "outputPath": "C:\\Project\\HotelApi\\HotelApi\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\deepa\\AppData\\Roaming\\NuGet\\NuGet.Config",
